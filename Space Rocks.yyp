@@ -3,7 +3,9 @@
   "resourceVersion": "1.6",
   "name": "Space Rocks",
   "resources": [
+    {"id":{"name":"spr_meduim_astroid","path":"sprites/spr_meduim_astroid/spr_meduim_astroid.yy",},"order":2,},
     {"id":{"name":"Spr_ship","path":"sprites/Spr_ship/Spr_ship.yy",},"order":0,},
+    {"id":{"name":"spr_small_astroid","path":"sprites/spr_small_astroid/spr_small_astroid.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
